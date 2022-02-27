@@ -15,8 +15,6 @@ const operationLogs = (state =[], action) => {
     default:
       return state
   }
-
-
 }
 
 export default operationLogs
